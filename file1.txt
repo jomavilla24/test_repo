@@ -1,1 +1,2 @@
 This is line 1 in file 1 [local change]
+This is line 1 in file 1 [remote change]
